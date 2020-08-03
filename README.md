@@ -12,10 +12,10 @@ One of my `repo` somehow got strange error when i using original `node-summary`,
 Example content from [WikiHow Article](https://www.wikihow.com/Walk)
 
 ```js
-    const Summary = require('summary')
+const Summary = require('summary')
     
-    let result = Summary('Improving Your Walking Gait', content)
-    console.log(result)
+let result = Summary('Improving Your Walking Gait', content)
+console.log(result)
 ```
 
 ```
