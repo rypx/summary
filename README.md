@@ -8,6 +8,11 @@ Thank you [@jbrooksuk](https://github.com/jbrooksuk) for your awesome package an
 # Why?
 One of my `repo` somehow got strange error when i using original `node-summary`, so i decide to fork the repository and make changes.
 
+# Installation
+```bash
+npm i rypx/summary
+```
+
 # Example
 Example content from [WikiHow Article](https://www.wikihow.com/Walk)
 
