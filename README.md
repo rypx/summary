@@ -37,4 +37,4 @@ Take the stairs when you usually take the elevator.
 
 2. Open new issue.
 
-<sub><sub><sub>I have C grade in English, please help me and i am sorry.</sub></sub></sub>
+<sub><sub><sub>I have C grade in English, please help me and i'm sorry.</sub></sub></sub>
