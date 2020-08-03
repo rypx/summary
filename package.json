@@ -1,0 +1,29 @@
+{
+  "name": "summary",
+  "version": "1.0.0",
+  "description": "Simplified version of node-summary, no Babel.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Too lazy, my skill is not enough for testing thingy.\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rypx/summary.git"
+  },
+  "keywords": [
+    "summary",
+    "summarizer",
+    "simplified",
+    "algorithm",
+    "text"
+  ],
+  "author": "rypx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rypx/summary/issues"
+  },
+  "homepage": "https://github.com/rypx/summary#readme",
+  "dependencies": {
+    "sbd": "^1.0.18"
+  }
+}
